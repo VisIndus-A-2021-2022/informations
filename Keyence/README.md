@@ -29,6 +29,8 @@ Make sure the following elements are connected/present.
 1. Launch `XG-X VisionEditor Ver.2.8`
 1. Copy your User ID and send it by email to your best assistant  
 ![installer_activation](img/installer_activation.png)
+1. We will give you your activation code at the next session 
 
 ## Configuration
-> TODO
+
+**The configuration procedure will be available at the next session**
