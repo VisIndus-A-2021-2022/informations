@@ -1,8 +1,10 @@
-**Prerequisites**
+# Keyence installation
+
+## Prerequisites
 
 You need an Ethernet port on your computer.
 
-**Hardware**
+## Hardware
 
 Make sure the following elements are connected/present.  
 ![needed_controller_IO](img/controller.png)
@@ -14,7 +16,7 @@ Make sure the following elements are connected/present.
 5. Light is connected to slot 1
 6. Ethernet is connected to your computer
 
-**Installation**
+## Software Installation
 
 1. Start the VisionEditor installation with the following installer :  
 `\\eistore1\iai-enseignement\VIN\XG-X_VisionEditor_2_8_0000.exe`
@@ -28,4 +30,5 @@ Make sure the following elements are connected/present.
 1. Copy your User ID and send it by email to your best assistant
 ![installer_activation](img/installer_activation.png)
 
-**Configuration**
+## Configuration
+> TODO
