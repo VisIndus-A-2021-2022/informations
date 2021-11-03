@@ -1,5 +1,19 @@
 # Keyence installation
 
+- [1. Prerequisites](#1-prerequisites)
+- [2. Hardware](#2-hardware)
+- [3. Software Installation](#3-software-installation)
+  * [3.1 VisionEditor](#31-visioneditor)
+  * [3.2 VisionTerminal](#32-visionterminal)
+- [4. Configuration](#4-configuration)
+  * [4.1 Activate the program](#41-activate-the-program)
+  * [4.2 Set a static IP](#42-set-a-static-ip)
+  * [4.3 Connect to the controller](#43-connect-to-the-controller)
+- [5. Create a workspace and program](#5-create-a-workspace-and-program)
+- [6. Troubleshooting](#6-troubleshooting)
+  * [6.1 Change User Account](#61-change-user-account)
+
+
 ## 1. Prerequisites
 
 You need an Ethernet port on your computer.
