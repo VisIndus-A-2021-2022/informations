@@ -14,6 +14,13 @@
   * [6.1 Change User Account](#61-change-user-account)
 
 
+## Documentation
+
+- XG-X Vision Editor : `\\eistore1\iai-enseignement\VIN\XG-X Vision Editor Reference Manual.pdf`
+- XG-X2000  : `\\eistore1\iai-enseignement\VIN\XG-X Series User Manual.pdf`
+
+
+
 ## 1. Prerequisites
 
 You need an Ethernet port on your computer.
